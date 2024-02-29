@@ -2,7 +2,6 @@
   <a href="https://blog.naver.com/gonbi91">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=😊Welcome!%20🂿&fontSize=40&animation=blinking" />
 </a>
-  <br/>
 </div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
