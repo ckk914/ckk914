@@ -10,7 +10,7 @@
  
 </div>
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=　　　　　✨만나서 반갑습니다!🙋‍♂️;　　　　　　모두+행복하세요🤩" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=　　　　　✨만나서 반갑습니다!🙋‍♂️;　　　　　　✨모두+행복하세요🤩" />
 </div>
 <br />
 <div align="center">
