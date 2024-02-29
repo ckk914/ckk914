@@ -4,10 +4,8 @@
 </a>
   <br/>
 </div>
-<br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
- 
 </div>
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com/?lines=　　　　　✨만나서 반갑습니다!🙋‍♂️;　　　　　　✨모두+행복하세요🤩" />
