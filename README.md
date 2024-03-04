@@ -30,7 +30,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ckk914"/>
-  ![Kyoungkon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&theme=dark)
+<img src="![Kyoungkon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&theme=dark"/>
+  
 </div>
 <br/>
 <div align="center">
