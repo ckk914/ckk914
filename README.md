@@ -34,7 +34,6 @@
 </div>
 <br/>
 <br/>
-<a href="https://opgc.me/#/users/ckk914" target="_blank"><img src="https://api.opgc.me/githubs/users/ckk914/tag/?theme=basic" /></a>
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
