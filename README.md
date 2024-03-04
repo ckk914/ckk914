@@ -33,8 +33,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ckk914"/>  
 </div>
 <br/>
-<img src="[![kyoungkon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)"/>
-<br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
 <br/>
