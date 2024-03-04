@@ -25,8 +25,9 @@
 </p>
 <br />
 <p align="center">
-  👨‍💻 GiHub History
+  👨‍💻 GiHub State
 </p>
+[![kyoungkon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ckk914"/>
