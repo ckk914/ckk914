@@ -38,7 +38,8 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
 <br/>
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=EFDC05&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EFDC05&height=100&section=footer"/>
+  
 </div>
 
 <!--
