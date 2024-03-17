@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://blog.naver.com/gonbi91">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5ad7b7&height=150&section=header&text=😊Welcome!%20&fontSize=40&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5ad7b7&height=200&section=header&text=😊Welcome!%20&fontSize=40&animation=blinking" />
 </a>
 </div>
 <div align="center">
