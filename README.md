@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://blog.naver.com/gonbi91">
+<!--   <a href="https://blog.naver.com/gonbi91"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5ad7b7&height=200&section=header&text=😊Welcome!%20&fontSize=40&animation=blinking" />
 </a>
 </div>
