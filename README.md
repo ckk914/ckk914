@@ -3,8 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5ad7b7&height=200&section=header&text=😊Welcome!%20&fontSize=40&animation=blinking" />
 </a>
 </div>
-<img src="https://github.com/ckk914/ckk914/blob/output/github-contribution-grid-snake.svg" />
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 <div align="center">
