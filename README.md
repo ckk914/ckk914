@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=　　  　　　     ✨조경곤입니다!🙋‍♂️;　　　　　       　✨반갑습니다🖐️😊" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=　　  　　　               ✨조경곤입니다!🙋‍♂️;　　　　　       　✨반갑습니다🖐️😊" />
 </div>
 
 </div>
