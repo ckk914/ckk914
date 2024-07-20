@@ -1,6 +1,6 @@
 <div align="center">
 <!--   <a href="https://blog.naver.com/gonbi91"> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5ad7b7&height=200&section=header&text=😊Welcome!%20&fontSize=40&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=200&section=header&text=😊Welcome!%20&fontSize=40&animation=blinking&fontColor=ffffff" />
 </a>
 </div>
 <div align="center">
@@ -50,7 +50,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5ad7b7&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=100&section=footer" />
   
 </div>
 
