@@ -15,6 +15,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
 </p>
 
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
 
 <p align="center">
@@ -64,6 +65,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
@@ -74,6 +77,17 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
 </div>
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ckk914"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=100&section=footer" />
