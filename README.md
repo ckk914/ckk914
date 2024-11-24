@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">
-  안녕하세요! 개발자 조경곤입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  Hello! I'm Cho Kyoung Kon, the Backend developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ckk914"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B5998&center=true&vCenter=true&width=435&lines=Backend+Developer;Always+learning+new+things;" alt="Typing SVG" /></a>
+  <a href="https://github.com/ckk914"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B5998&center=true&vCenter=true&width=435&lines=Always+learning+new+things;I+can+develop+it+with+a+full+stack" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
