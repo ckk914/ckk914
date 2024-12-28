@@ -79,16 +79,18 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/devxb/gitanimals">
+  <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/ckk914"
   width="600"
   height="300"
 />
 </a>
+
 </div>
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=100&section=footer" />
+  
 </div>
