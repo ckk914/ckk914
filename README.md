@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hello! I'm Cho Kyoung Kon <br> the Backend developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  Hello! I'm Cho Kyoung Kon <br> a Backend developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 </h1>
 
 <p align="center">
