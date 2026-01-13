@@ -83,12 +83,12 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
