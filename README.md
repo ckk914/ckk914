@@ -81,30 +81,32 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
+<div align= center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<div align= center>
+<img src="https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/devxb/gitanimals">
+
+<img
+  src="https://render.gitanimals.org/farms/ckk914"
+  width="600"
+  height="300"
+  align="center"
+/>
+</a>
+
 </div>
 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ckk914"
-  width="600"
-  height="300"
-/>
-</a>
-
-</div>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=100&section=footer" />
