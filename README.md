@@ -15,6 +15,19 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
 </p>
 
+<br/>
+
+<div align="center">
+<b style="color:#20C997;">💎 My Velog for tech posts! ↓</b><br/>
+  <a href="https://velog.io/@kkikki">
+    <img src="https://velog-readme-stats.vercel.app/api?name=kkikki" width="400" height="300"/>
+  </a>
+  <br/>
+
+</div>
+
+<br/>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
 
@@ -81,15 +94,17 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
-<div align= center>
+<!-- git status -->
+<!-- status error : block code -->
+<!-- <div align= center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 <div align= center>
 <img src="https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
+</div> -->
+<!-- velog lastest page pop -->
 
-
-
+<!-- git animals -->
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
 
