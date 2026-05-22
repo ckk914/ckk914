@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-<b style="color:#20C997;">💎 My Velog for tech posts! ↓</b><br/>
+<b style="color:#20C997;">💎 My Velog for tech posts🌫️ ↓</b><br/>
   <a href="https://velog.io/@kkikki">
     <img src="https://velog-readme-stats.vercel.app/api?name=kkikki" width="400" height="300"/>
   </a>
