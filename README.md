@@ -116,10 +116,10 @@
 />
 </a>
 
-</div>
+<!-- </div>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ckk914&theme=gruvbox&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
