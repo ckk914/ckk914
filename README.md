@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-<b style="color:#20C997;">💎 My Velog for tech posts🌫️ ↓</b><br/>
+<b style="color:#20C997;">💎 My Velog for tech posts ↓</b><br/>
   <a href="https://velog.io/@kkikki">
     <img src="https://velog-readme-stats.vercel.app/api?name=kkikki" width="400" height="300"/>
   </a>
@@ -94,6 +94,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ckk914&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ckk914&layout=compact&theme=vue" alt="Top Langs" />
+    </a>
+  </div>
+</div>
 <!-- git status -->
 <!-- status error : block code -->
 <!-- <div align= center>
