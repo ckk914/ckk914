@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<b style="color:#20C997;">💎 My Velog for tech posts ↓</b>
+<b style="color:#20C997;">💎 My Velog for tech posts ✨ </b>
 
 <br/>
 <a href="https://velog.io/@kkikki">
