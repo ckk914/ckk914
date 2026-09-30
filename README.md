@@ -157,5 +157,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=100&section=footer" />
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
