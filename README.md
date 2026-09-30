@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
 </p>
 
 <br/>
@@ -139,10 +140,15 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ckk914&theme=gruvbox&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
-</div>
+</div> -->
+<!-- 깃허브 트로피 -->
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ckk914&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kyoungkon's GitHub Trophies" />
+</p>
 
+<!-- footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=100&section=footer" />
   
