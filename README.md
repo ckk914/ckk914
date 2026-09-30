@@ -101,7 +101,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
+
+  <!-- 깃허브 트로피 -->
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ckk914&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kyoungkon's GitHub Trophies" />
+</p>
+
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ckk914&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -143,10 +149,7 @@
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Money-Mouth%20Face.png" alt="Money-Mouth Face" width="25" height="25" />
 </div> -->
-<!-- 깃허브 트로피 -->
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ckk914&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kyoungkon's GitHub Trophies" />
-</p>
+
 
 <!-- footer -->
 <div align="center">
