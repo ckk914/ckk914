@@ -1,7 +1,7 @@
 
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=200&section=header&text=😊%20Welcome%20to%20my%20GitHub!%20&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b5998&height=200&section=header&text=😊%20Welcome%20to%20Kyongkon's%20GitHub!⚡%20&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <h1 align="center">
