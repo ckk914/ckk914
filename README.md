@@ -121,7 +121,7 @@
 <!-- Git Stats-->
 <p align="center">
   <a href="https://github.com/ckk914">
-    <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lightlymoon&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="kyoungkon's GitHub Stats" />
+    <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ckk914&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="kyoungkon's GitHub Stats" />
   </a>
   <br><br>
   <img height="165px" src="https://streak-stats.demolab.com/?user=lightlymoon&theme=dracula&hide_border=true&cache_seconds=86400" alt="kyoungkon's GitHub Streak" />
