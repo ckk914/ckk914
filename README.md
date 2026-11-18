@@ -120,26 +120,26 @@
 
 <!-- Git Stats-->
 <p align="center">
-  <a href="https://github.com/ckk914">
+  <!-- <a href="https://github.com/ckk914">
     <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ckk914&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="kyoungkon's GitHub Stats" />
-  </a>
+  </a> -->
   <br><br>
   <img height="165px" src="https://streak-stats.demolab.com/?user=lightlymoon&theme=dracula&hide_border=true&cache_seconds=86400" alt="kyoungkon's GitHub Streak" />
 </p>
-<!--
+
 <div>
+  <!--
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ckk914&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </a>
   </div>
 -->
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ckk914&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckk914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <!-- Top Langs -->
-  <p align="center">
-  <a href="https://github.com/ckk914">
-    <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ckk914&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 <!-- <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F090C4&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Good+luck!" />
 </div> -->
