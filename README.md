@@ -20,7 +20,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <b style="color:#20C997;">💎 My Velog for tech posts ✨ </b>
 
@@ -32,7 +32,7 @@
     alt="kkikki Velog"
   />
 </a>
-</div>
+</div> -->
 
 <br/>
 
